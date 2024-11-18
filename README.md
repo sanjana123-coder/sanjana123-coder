@@ -5,7 +5,7 @@
    Exploring new web technologies like React, JavaScript, and CSS. I love building responsive websites and user-friendly interfaces.
 
 - 🌱 I’m currently learning ...  
-   React.js, Redux, and advanced JavaScript concepts. Also diving into UI/UX design to improve my web development skills.
+   React.js, and advanced JavaScript concepts. Also diving into UI/UX design to improve my web development skills.
 
 - 💞️ I’m looking to collaborate on ...  
    Open-source frontend projects, learning React, and collaborating on web development tutorials or coding challenges.
